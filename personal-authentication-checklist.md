@@ -90,9 +90,3 @@
 23. **[Nitrokey](https://www.nitrokey.com/)** (Open-Source): Secure your data with open-source encryption.
 24. **[SoloKeys](https://solokeys.com/)** (Open-Source): Open-source security keys for two-factor authentication.
 25. **[YubiKey](https://www.yubico.com/)**: A small hardware device that provides secure login with two-factor authentication.
-
-***
-Discord Oryon's OSINT Hub: Join us
-Telegram ORYON VAULT: Follow us
-LinkedIn: Connect with us
-Website: Explore more
